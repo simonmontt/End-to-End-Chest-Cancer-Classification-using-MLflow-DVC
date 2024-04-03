@@ -1,0 +1,20 @@
+tensorflow==2.12.0
+pandas 
+gdown
+dvc
+mlflow==2.2.2
+notebook
+numpy
+matplotlib
+seaborn
+python-box==6.0.2
+pyYAML
+tqdm
+ensure==1.0.2
+joblib
+types-PyYAML
+scipy
+Flask
+Flask-Cors
+-e . # -e is to look up for the config.py and will install all my projects as a local package itself whereveir is a
+     # constructor file (__init__.py)
