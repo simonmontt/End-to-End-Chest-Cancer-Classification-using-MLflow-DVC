@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/PC/Documents/Projects/End-to-End-Chest-Cancer-Classification-using-MLflow-DVC/mlruns/0/09b6f04d48394c21a3e7cc9c9e7c4315/artifacts
+end_time: 1712271283527
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 09b6f04d48394c21a3e7cc9c9e7c4315
+run_name: brawny-squirrel-938
+run_uuid: 09b6f04d48394c21a3e7cc9c9e7c4315
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712271256843
+status: 3
+tags: []
+user_id: PC
