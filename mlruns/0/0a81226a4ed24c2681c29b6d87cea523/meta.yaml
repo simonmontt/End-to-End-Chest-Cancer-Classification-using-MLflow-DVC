@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/PC/Documents/Projects/End-to-End-Chest-Cancer-Classification-using-MLflow-DVC/mlruns/0/0a81226a4ed24c2681c29b6d87cea523/artifacts
+end_time: 1712273119258
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 0a81226a4ed24c2681c29b6d87cea523
+run_name: unruly-stag-24
+run_uuid: 0a81226a4ed24c2681c29b6d87cea523
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712273100746
+status: 3
+tags: []
+user_id: PC
